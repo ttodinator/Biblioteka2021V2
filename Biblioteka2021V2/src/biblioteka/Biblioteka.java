@@ -53,6 +53,7 @@ private LinkedList<Knjiga> knjige = new LinkedList<Knjiga>();
 				rezultat.add(knjiga);
 		
 		return rezultat;
+		//
 	}
 
 }
